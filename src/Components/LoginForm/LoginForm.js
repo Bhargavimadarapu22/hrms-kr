@@ -7,7 +7,7 @@ import { FaLock } from "react-icons/fa";
 export const LoginForm = () => {
   return (
     <div className='wrapper'>
-        <form action="">
+             <form action="">
             <h1>login</h1>
             <div className="input-box">
                 <input type="text" placeholder='Username' required/>
