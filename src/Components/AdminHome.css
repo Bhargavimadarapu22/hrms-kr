@@ -1,0 +1,53 @@
+.App {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 20px;
+  width: 100vw;
+}
+
+li {
+  border: 1px solid black;
+}
+ul {
+  margin-right: 20%;
+  width: 30%;
+}
+.list {
+  margin-left: 38%;
+  margin-top: 5%;
+}
+.header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  width: 90%;
+  background-color: transparent;
+  border: 1px solid black;
+}
+
+.heading {
+  margin: 0;
+}
+.navbar button {
+  height: 6%;
+}
+
+.navbar {
+  display: flex;
+  align-items: center;
+  margin-top: 0%;
+  margin-bottom: 0%;
+}
+
+.navbar h1 {
+  margin-left: auto;
+}
+
+.heading {
+  margin: 13%;
+}
+
+.navbar button {
+  margin-right: 10px;
+}

@@ -1,0 +1,38 @@
+body {
+  background-color: rgb(249, 247, 247);
+  background-repeat: no-repeat;
+  background-size: 100% auto;
+  background-image: url("https://th.bing.com/th?id=OIP.GbMboU-krQvdIrfKgWpzXgHaFj&w=288&h=216&c=8&rs=1&qlt=90&o=6&dpr=1.6&pid=3.1&rm=2");
+}
+
+.app {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  height: 100vh;
+  padding: 20px;
+  width: 100vw;
+}
+
+.header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  width: 90%;
+  margin-bottom: 20px;
+}
+
+.heading {
+  margin: 0;
+}
+.image-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100%;
+}
+
+.image-container img {
+  width: 90%;
+  height: 70%;
+}
